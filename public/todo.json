@@ -1,7 +1,7 @@
 [
     {
       "id": "Hacer mercado",
-      "text": "comprar mercado",
+      "text": "Comprar mercado",
       "done": false
     },
     {
@@ -11,7 +11,7 @@
     },
     {
       "id": "Escuchar musica",
-      "text": "abrir spotify y escuchar berner",
+      "text": "Abrir spotify y escuchar música",
       "done": false
     },
     {
