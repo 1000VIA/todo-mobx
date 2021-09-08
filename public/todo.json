@@ -1,0 +1,27 @@
+[
+    {
+      "id": "Hacer mercado",
+      "text": "comprar mercado",
+      "done": false
+    },
+    {
+      "id": "Preparar la comida",
+      "text": "Preparar los ingredientes",
+      "done": false
+    },
+    {
+      "id": "Escuchar musica",
+      "text": "abrir spotify y escuchar berner",
+      "done": false
+    },
+    {
+      "id": "Ordenar la cocina",
+      "text": "Lavar la loza",
+      "done": false
+    },
+    {
+      "id": "Estudiar inglés",
+      "text": "Hablar inglés hasta tener una convesación fluida",
+      "done": false
+    }
+  ]
